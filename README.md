@@ -18,7 +18,7 @@ You may also see any lint errors in the console.
 
 **This project was built with React.js, Material UI and Rapid API**.
 
-## Live Demo for this Project - https://shahriar-fitness-club.netlify.app/
+## Live Demo for this Project - 
 
 Features of this project:
 
