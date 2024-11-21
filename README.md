@@ -35,12 +35,4 @@ Things that I've learned in while building this project:
 - Creating a beautiful user interface with Material UI
 - Fetching data from Rapid API
 
-## Here are some sample screenshots of the project
 
-![image](/public/screenshots/HeroBanner.PNG)
-![image](/public/screenshots/SearchCategory.PNG)
-![image](/public/screenshots/SearchResults.PNG)
-![image](/public/screenshots/ExerciseDetails.PNG)
-![image](/public/screenshots/ExerciseVideos.PNG)
-![image](/public/screenshots/SimilarTargetMuscleExercises.PNG)
-![image](/public/screenshots/SimilarEquipmentExercises.PNG)
